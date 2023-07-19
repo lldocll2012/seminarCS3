@@ -25,3 +25,5 @@ else if(num == 4)
 {
     Console.WriteLine("x > 0 && y < 0");
 }
+else
+Console.WriteLine("Номер четверти введен не правильно.");
